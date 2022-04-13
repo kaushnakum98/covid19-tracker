@@ -38,7 +38,7 @@ const Footer = () => {
             <Toolbar >
           <Container className={styleClass.navbarDisplayFlex}>
               <Typography variant="button" color="inherit">
-                © 2021 Rahul Pipaliya
+                © 2021 kaushik nakum
               </Typography>
               <StyledList component="nav" aria-labelledby="main navigation">
             {footerLinks.map(({ title, path }) => (
