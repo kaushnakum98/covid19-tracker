@@ -4,9 +4,9 @@ import styled from 'styled-components';
 import { makeStyles } from "@material-ui/core/styles"
 
 const footerLinks = [
-  { title: `Github`, path: `https://github.com/HoruScodes` },
-  { title: `Instagram`, path: `https://www.instagram.com/rahulpipaliya_/` },
-  { title: `Twitter`, path: `https://twitter.com/rahul_pipaliya1` },
+  { title: `Github`, path: `https://github.com/kaushnakum98` },
+  { title: `Instagram`, path: `https://www.instagram.com/nakumkaush` },
+  { title: `Twitter`, path: `https://twitter.com/kaushnakum` },
 ]
 
 
